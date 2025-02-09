@@ -26,4 +26,8 @@ This command gives execution permissions
 
 #6. Multiple permissions
 *File:* 6-multiple_permissions
-This command is used to add execution permissions to the owner and the group owner and read permissions to other users.
+This command is used to add execution permissions to the owner and the group owner and read permissions to other users
+
+#7. Everybody!
+*File:*  7-everybody
+This command is used to add execution permissions to the owner and the group owner and to other users.
