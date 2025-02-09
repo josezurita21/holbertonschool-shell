@@ -10,4 +10,8 @@ prints the effective username of the current user
 
 #2. Groups
 *File:* 2-groups
-This command will print the groups that the current user is a member of.
+This command will print the groups that the current user is a member of
+
+#3. New owner
+*File:* 3-new_owner
+This command is used to change the owner of the file
