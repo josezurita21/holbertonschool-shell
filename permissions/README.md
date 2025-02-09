@@ -19,3 +19,7 @@ This command is used to change the owner of the file
 #4. Empty!
 *File:* 4-empty
 This command is used to create an empty file.
+
+#5. Execute
+*File:* 5-execute
+This command gives execution permissions
