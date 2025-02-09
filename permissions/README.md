@@ -61,3 +61,7 @@ This command changes the group of a file
 #14. Owner and group
 *File:* 14-change_owner_and_group
 This command tells us how to change the user and group owner
+
+#15. Symbolic links
+*File:* 15-symbolic_link_permissions
+This command is used to change the file owner and the group owner
