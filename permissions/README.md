@@ -23,3 +23,7 @@ This command is used to create an empty file.
 #5. Execute
 *File:* 5-execute
 This command gives execution permissions
+
+#6. Multiple permissions
+*File:* 6-multiple_permissions
+This command is used to add execution permissions to the owner and the group owner and read permissions to other users.
