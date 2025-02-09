@@ -49,6 +49,7 @@ This command allows you to set the permissions of the hello file the same as tho
 
 #11. Directories
 *File:* 11-directories_permissions
+With this command we will be able to modify the execution permissions only to the current directories and subdirectories, not to normal files.
 
 #12. More directories
 *File:* 12-directory_permissions
