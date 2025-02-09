@@ -47,4 +47,9 @@ Other users: -wx (write and execute, no reading)
 *File:* 10-mirror_permissions
 This command allows you to set the permissions of the hello file the same as those of the olleh file
 
+#11. Directories
+*File:* 11-directories_permissions
 
+#12. More directories
+*File:* 12-directory_permissions
+This command creates a directory with permissions 751
