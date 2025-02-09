@@ -30,4 +30,8 @@ This command is used to add execution permissions to the owner and the group own
 
 #7. Everybody!
 *File:*  7-everybody
-This command is used to add execution permissions to the owner and the group owner and to other users.
+This command is used to add execution permissions to the owner and the group owner and to other users
+
+#8. James Bond
+*File:* 8-James_Bond
+This command allows us to have the owner have no permissions at all, as well as the group, but other users have full permissions
