@@ -3,3 +3,7 @@
 #0. My name is Betty
 *File:* 0-iam_betty
 change the current user to another one on a Unix-based system
+
+#1. Who am I
+*File:* 1-who_am_i
+prints the effective username of the current user
