@@ -41,4 +41,10 @@ This command allows us to have the owner have no permissions at all, as well as 
 chmod 753 gives us the following result:
 Owner: rwx (read, write and execute).
 Group: r-x (read and execute).
-Other users: -wx (write and execute, no reading).
+Other users: -wx (write and execute, no reading)
+
+#10. Look in the mirror
+*File:* 10-mirror_permissions
+This command allows you to set the permissions of the hello file the same as those of the olleh file
+
+
