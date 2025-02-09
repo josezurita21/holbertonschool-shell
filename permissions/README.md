@@ -35,3 +35,10 @@ This command is used to add execution permissions to the owner and the group own
 #8. James Bond
 *File:* 8-James_Bond
 This command allows us to have the owner have no permissions at all, as well as the group, but other users have full permissions
+
+#9. John Doe
+*File:* 9-John_Doe
+chmod 753 gives us the following result:
+Owner: rwx (read, write and execute).
+Group: r-x (read and execute).
+Other users: -wx (write and execute, no reading).
