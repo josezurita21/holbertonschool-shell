@@ -15,3 +15,7 @@ This command will print the groups that the current user is a member of
 #3. New owner
 *File:* 3-new_owner
 This command is used to change the owner of the file
+
+#4. Empty!
+*File:* 4-empty
+This command is used to create an empty file.
