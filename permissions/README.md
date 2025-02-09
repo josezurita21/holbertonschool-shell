@@ -53,3 +53,7 @@ This command allows you to set the permissions of the hello file the same as tho
 #12. More directories
 *File:* 12-directory_permissions
 This command creates a directory with permissions 751
+
+#13. Change group
+*File:* 13-change_group
+This command changes the group of a file
