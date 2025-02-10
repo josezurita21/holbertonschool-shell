@@ -3,3 +3,7 @@
 #0. Hello World
 *File:* 0. Hello World
 With this command we can print a hello world on display
+
+#1. Confused smiley
+*File:* 1-confused_smiley
+With this command we can print a confused smiley on display
