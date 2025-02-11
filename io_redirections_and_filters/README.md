@@ -7,3 +7,7 @@ With this command we can print a hello world on display
 #1. Confused smiley
 *File:* 1-confused_smiley
 With this command we can print a confused smiley on display
+
+#2. Let's display a file
+*File:* 2-hellofile
+This command is used to find the contents of a directory.
