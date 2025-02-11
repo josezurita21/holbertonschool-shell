@@ -52,3 +52,6 @@ This command will find the subdirectories in the current directory
 *File:* 11-directorie
 This command will count the number of directories and subdirectories in the current directory.
 
+#12. Whats new
+*File:* 12-newest_files
+This command will display the 10 newest files in the current directory.
