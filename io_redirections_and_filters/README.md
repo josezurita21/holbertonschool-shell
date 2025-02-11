@@ -14,4 +14,8 @@ This command is used to find the contents of a directory.
 
 #3. What about 2?
 *File:*  3-twofiles
-This command is used to find the contents of a directory.
+This command is used to find the contents of a directory
+
+#4. Last lines of a file
+*File:* 4-lastlines 
+This command will show us only the last ten lines
