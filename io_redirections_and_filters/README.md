@@ -79,3 +79,7 @@ Display all the lines in the file /etc/passwd that do not contain the pattern bi
 #18. Letters only please
 *File:* 18-letteronly
 Display all lines of the file starting with a letter.
+
+#19. A to Z
+*File:* 19-AZ
+Replace all characters A and c from input to Z and e respectively.
