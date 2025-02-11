@@ -35,3 +35,7 @@ This command transmits the output or input of a command to a file
 #8. Save current state of directory
 *File:*  8-cwd_state
 This command writes the result of a command
+
+#9. Duplicate last line
+*File:* 9-duplicate_last_line
+This command duplicates the last line of a file.
