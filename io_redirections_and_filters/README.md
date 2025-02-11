@@ -23,3 +23,7 @@ This command will show us only the last ten lines
 #5. I'd prefer the first ones actually
 *File:*  5-firstlines
 This command will show us the first five lines
+
+#6. Line #2
+*File:* 6-third_line
+This command will show us the first three lines
