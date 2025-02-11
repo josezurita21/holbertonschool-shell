@@ -43,3 +43,12 @@ This command duplicates the last line of a file.
 #10. No more javascript
 *File:* 10-no_more_js
 This command will search for certain files and delete them.
+
+#11. Don't just count your directories, make your directories count
+*File:* 11-directories
+This command will find the subdirectories in the current directory
+
+#11. Don't just count your directories, make your directories count
+*File:* 11-directorie
+This command will count the number of directories and subdirectories in the current directory.
+
