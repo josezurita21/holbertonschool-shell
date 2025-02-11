@@ -59,3 +59,7 @@ This command will display the 10 newest files in the current directory.
 #13. Being unique is better than being perfect
 *File:* 13-unique
 This command will display only words that only appear once.
+
+#14. It must be in that file
+*File:* 14-findthatword
+Display lines containing the pattern roo from the
