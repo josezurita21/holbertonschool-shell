@@ -27,3 +27,7 @@ This command will show us the first five lines
 #6. Line #2
 *File:* 6-third_line
 This command will show us the first three lines
+
+#7. It is a good file that cuts iron without making a noise
+*File:* 7-file
+This command transmits the output or input of a command to a file
