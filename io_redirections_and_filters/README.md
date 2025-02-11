@@ -75,3 +75,7 @@ Display lines containing the pattern rot and 3 lines after them in the file /etc
 #17. I hate bins
 *File:* 17-hidethisword
 Display all the lines in the file /etc/passwd that do not contain the pattern bin
+
+#18. Letters only please
+*File:* 18-letteronly
+Display all lines of the file starting with a letter.
