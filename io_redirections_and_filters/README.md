@@ -83,3 +83,7 @@ Display all lines of the file starting with a letter.
 #19. A to Z
 *File:* 19-AZ
 Replace all characters A and c from input to Z and e respectively.
+
+#20. Without C, you would live in hiago
+*File:* 20-hiago
+Create a script that removes all letters c and C from input.
