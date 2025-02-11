@@ -55,3 +55,7 @@ This command will count the number of directories and subdirectories in the curr
 #12. Whats new
 *File:* 12-newest_files
 This command will display the 10 newest files in the current directory.
+
+#13. Being unique is better than being perfect
+*File:* 13-unique
+This command will display only words that only appear once.
