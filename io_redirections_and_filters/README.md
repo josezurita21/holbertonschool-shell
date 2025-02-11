@@ -11,3 +11,7 @@ With this command we can print a confused smiley on display
 #2. Let's display a file
 *File:* 2-hellofile
 This command is used to find the contents of a directory.
+
+#3. What about 2?
+*File:*  3-twofiles
+This command is used to find the contents of a directory.
