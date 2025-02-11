@@ -67,3 +67,7 @@ Display lines containing the pattern root from the
 #15. Count that word
 *File:*  15-countthatword
 Display the number of lines that contain the pattern bin
+
+#16. What's next?
+*File:* 6-whatsnext
+Display lines containing the pattern rot and 3 lines after them in the file /etc/passwd
