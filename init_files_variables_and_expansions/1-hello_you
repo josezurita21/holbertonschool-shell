@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Hola %s\n" "$(whoami)"
+printf "Hola %s\n" "$USER"
